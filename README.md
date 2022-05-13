@@ -10,6 +10,7 @@
 * İletişim menüsünden mesaj bırakan kişilerin mesajları, admin panelinde gözükmektedir.
 * Projede Repository Design Pattern kullanıldı.
 * Sosyal medya linki ve ikonu eklerken popup penceresi ile ekleme özelliği getirildi.
+* Authentication işlemleri yapıldı. Admin giriş panelinde kullanıcı adı ve şifre girilmeden diğer sayfalara geçiş yapılmamaktadır.
 
 
 ### Resimler
