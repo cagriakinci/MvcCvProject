@@ -47,4 +47,4 @@
 
 [Eğitim Sayfası](https://i.hizliresim.com/2otayiz.png)
 
-[Hakkımda Düzenleme Sayfası](https://i.hizliresim.com/8fibchc.png)
+[Hakkımda Düzenleme Sayfası](https://i.hizliresim.com/8fibchc.png) 
